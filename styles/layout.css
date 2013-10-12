@@ -1,0 +1,22 @@
+﻿#navigation {
+	width: auto;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	clear: both;
+}
+#column_l {
+	float: left;
+}
+#column_r {
+	float: left;
+}
+.float_right {
+	margin: 10px;
+	padding: 10px;
+	float: right;
+}
+#page_content {
+	position: relative;
+	float: left;
+}

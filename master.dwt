@@ -1,0 +1,207 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+
+<head>
+<!-- #BeginEditable "doctitle and description" -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Saundersfoot holiday cottages near Tenby, Pembrokeshire. Perfect family holiday." />
+<meta name="keywords" content="Pembrokeshire holiday cottages,Pembrokeshire,accommodation,apartment,
+	self-catering holidays,beach,breaks holiday pembrokeshire holiday,Pembrokeshire self catering,
+	self catering cottages,welsh country cottage,welsh property,welsh properties,Wales uk,uk cottage holidays,
+	self catering, farm holidays,weekend breaks, holidays in Pembrokeshire,coastal cottages,dogs welcome,
+	country cottage holidays,country cottages,quality cottages, welcome cottage holidays,welsh country cottages,
+	cottage accommodation,cottage rental,vacation cottages,honeymoon cottages,romantic cottages,gite, 
+	farm cottages,Saundersfoot,Saunderfoot cottage,Saundersfoot holiday cottages,dog friendly cottages, 
+	short breaks,child friendly holiday,family holidays,Tenby,Tenby cottage,Tenby holiday cottages" />
+	
+<title>Meadow Green Farm Holiday Cottages</title>
+<!-- #EndEditable -->
+
+<link rel="stylesheet" title="CSS" type="text/css" href="styles/style1.css" media="screen" />
+
+<!-- s3Slider scripts for all pages -->
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript" src="scripts/s3Slider.js"></script>
+<!-- <script type="text/javascript" src="S3Slider_ds_js/ds_jss.js"></script> -->
+
+<script type="text/javascript">
+function showmenu(elmnt)
+{
+$(elmnt).css('visibility','visible');
+//document.getElementById(elmnt).style.visibility="visible";
+}
+function hidemenu(elmnt)
+{
+$(elmnt).css('visibility','hidden');
+//document.getElementById(elmnt).style.visibility="hidden";
+}
+</script>
+</head>
+
+<body><!-- Begin Container -->
+
+	<script type="text/javascript"  language="javascript">
+		$(document).ready(function(){
+			//empty
+		});
+		
+	$(function($) {
+	var timer;
+	function OnMouseHover0(event)
+	{
+	$("#main_navigation li ul").css("visibility","hidden");
+	$("#subNav0").css("visibility","visible");
+	}
+	
+	function OnMouseOut0(event)
+	{
+	$("#subNav0").css("visibility","hidden");
+	}
+	
+	function OnMouseHover1(event)
+	{
+	$("#main_navigation li ul").css("visibility","hidden");
+	$("#subNav1").css("visibility","visible");
+	}
+	
+	function OnMouseOut1(event)
+	{
+	$("#subNav1").css("visibility","hidden");
+	}
+	
+	function OnMouseHover2(event)
+	{
+	$("#main_navigation li ul").css("visibility","hidden");
+	$("#subNav2").css("visibility","visible");
+	}
+	
+	function OnMouseOut2(event)
+	{
+	$("#subNav2").css("visibility","hidden");
+	}
+	
+	function OnMouseHover3(event)
+	{
+	$("#main_navigation li ul").css("visibility","hidden");
+	$("#subNav3").css("visibility","visible");
+	}
+	
+	function OnMouseOut3(event)
+	{
+	$("#subNav3").css("visibility","hidden");
+	}
+	
+		
+	function OnMouseHover4(event)
+	{
+	$("#main_navigation li ul").css("visibility","hidden");
+	$("#subNav4").css("visibility","visible");
+	}
+	
+	function OnMouseOut4(event)
+	{
+	$("#subNav4").css("visibility","hidden");
+	}
+
+	
+	$('#trigger0').bind('mouseover', OnMouseHover0);
+	
+	$('#trigger0').bind('mouseout', OnMouseOut0);
+	
+	$('#trigger1').bind('mouseover', OnMouseHover1);
+	
+	$('#trigger1').bind('mouseout', OnMouseOut1);
+	
+	$('#trigger2').bind('mouseover', OnMouseHover2);
+	
+	$('#trigger2').bind('mouseout', OnMouseOut2);
+	
+	$('#trigger3').bind('mouseover', OnMouseHover3);
+	
+	$('#trigger3').bind('mouseout', OnMouseOut3);
+	
+	$('#trigger4').bind('mouseover', OnMouseHover4);
+	
+	$('#trigger4').bind('mouseout', OnMouseOut4);
+	
+	});
+
+	</script>
+
+<div id="container">
+
+	<!-- Begin Masthead -->
+	
+		<div id="masthead_left"></div>
+		
+		<div id="masthead_right" >
+			<h4 style="height: 95px">the<br />
+				&nbsp;relaxing<br />
+				&nbsp;retreat</h4>
+		</div>	
+		
+	<!-- End Masthead -->
+	
+	
+<!-- Begin Navigation -->
+			
+<ul id="main_navigation">
+	<li id="trigger0"><a href="default.htm">Home</a>
+	</li>
+	<li id="trigger1"><a href="cottages/cottages.htm">Cottages</a>
+	<ul class="subNavMenuItems" id="subNav1">
+		<li><a href="cottages/Cornflower/Cornflower.htm">Cornflower</a></li>
+		<li><a href="cottages/Cowslip/Cowslip.htm">Cowslip</a></li>
+		<li><a href="cottages/Meadowsweet/Meadowsweet.htm">Meadowsweet</a></li>
+	</ul>
+	</li>
+	<li id="trigger2"><a href="Menu/menu.htm">Home Cooking</a>
+	</li>
+	<li id="trigger3"><a href="facilities/facilities.htm">Facilities</a>
+	<ul class="subNavMenuItems" id="subNav3">
+		<li><a href="facilities/beachhut/beachhut.htm">The Beach Hut</a></li>
+		<li><a href="facilities/play_area/play_area.htm">Childrens play area</a></li>
+		<li><a href="facilities/babies/babies.htm">Babies &amp toddlers</a></li>
+		<li><a href="facilities/animals/animals.htm">The Animals</a></li>
+		<li><a href="facilities/LakesWoods/LakesWoods.htm">The lakes &amp nature trails</a></li>
+	</ul>
+	</li>
+	<li id="trigger4"><a href="attractions/attractions.htm">Surrounding Area</a>
+	</li>
+	<li id="trigger5"><a href="booking/booking.htm">Availability &amp; prices</a>
+	</li>
+	<li id="trigger6"><a href="visitorsBook/visitorsBook.htm">Visitors' books</a>
+	</li>
+	<li id="trigger7"><a href="contact/contact.htm">Find Us</a>
+	</li>
+</ul>
+
+	
+	<!-- End Navigation -->
+	
+	<!-- Begin Page Content -->
+	<div id="page_content">
+	<!-- #BeginEditable "content" -->
+			<h2>Headline 2</h2>
+			<p>insert content here</p>
+		<!-- #EndEditable "content" --->
+	</div>
+	<!-- End Page Content -->
+	<!-- Begin Footer -->
+	<div id="footer">
+		<p>telephone: 01834 810107 | email: meadowgreenfarm@gmail.com | facebook: 
+		
+			<img alt="&quot;&quot;" src="images/facebook_32.png" width="23" height="19" /> 
+			<a href="http://www.facebook.com/pages/Meadow-Green-Farm-Holiday-Cottages/162758367090594">
+			Meadow Green Farm Holiday Cottages</a>
+			</p>
+
+	</div>
+	<!-- End Footer -->
+</div>
+<!-- End Container -->
+
+</body>
+
+</html>

@@ -1,0 +1,105 @@
+		<table  >
+			<tr>
+				<td >
+					<a href="default.htm">Home</a>
+				</td>
+				<td onmouseover="showmenu('#cottages')" onmouseout="hidemenu('#cottages')">
+					<a href="cottages/cottages.htm">Cottages</a>
+					<table class="menu" id="cottages">
+						<tr>
+							<td class="menu"><p></p><a href="cottages/Meadowsweet/Meadowsweet.htm">Meadowsweet</a></td>
+						</tr>
+						<tr>
+							<td class="menu"><p></p><a href="cottages/Cowslip/Cowslip.htm">Cowslip</a></td>
+						</tr>
+						<tr>
+							<td class="menu"><p></p><a href="cottages/Cornflower/Cornflower.htm">Cornflower</a></td>
+						</tr>
+					</table>
+				</td>
+				<td onmouseover="showmenu('#menu')" onmouseout="hidemenu('#menu')">
+					<a href="Menu/menu.htm">Home Cooking</a>
+					<table rules="cols" class="menu" id="menu">
+						<tr>
+							<td class="menu"><p></p>
+								<a href="Menu/ForwebMenu2012-08-12.pdf">The menu</a>
+							</td>
+						</tr>
+						<tr>
+							<td class="menu"><p></p>
+								<a href="Menu/ordering.htm">Ordering</a>
+							</td>
+						</tr>
+					</table>
+				</td>
+				
+				<td onmouseover="showmenu('#facilities')" onmouseout="hidemenu('#facilities')">
+					<a href="facilities/facilities.htm">Facilities</a>
+					<table class="menu" id="facilities">
+						<tr>
+							<td class="menu"><p></p>
+								<a href="facilities/beachhut/beachhut.htm">The Beach Hut</a>
+							</td>
+						</tr>
+						<tr>
+							<td class="menu"><p></p>
+								<a href="facilities/play_area/play_area.htm">Childrens play area</a>
+							</td>
+						</tr>
+						<tr>
+							<td class="menu"><p></p>
+								<a href="facilities/animals/animals.htm">The Animals</a>
+							</td>
+						</tr>
+						<tr>
+							<td class="menu"><p></p>
+								<a href="facilities/lakes/lakes.htm">The lakes &amp fishing</a>
+							</td>
+						</tr>
+						<tr>
+							<td class="menu"><p></p>
+								<a href="facilities/woods/woods.htm">Woods, fields &amp footpaths</a>
+							</td>
+						</tr>
+					</table>
+				</td>
+				
+				<td onmouseover="showmenu('#attractions')" onmouseout="hidemenu('#attractions')">
+					<a href="attractions/attractions.htm">Surrounding Area</a>
+					<table class="menu" id="attractions">
+						<tr>
+							<td class="menu"><p></p>
+								<a href="attractions/children/children_attractions.htm">For children</a>
+							</td>
+						</tr>
+						<tr>
+							<td class="menu"><p></p>
+								<a href="attractions/beaches/beaches.htm">Local beaches</a>
+							</td>
+						</tr>
+						<tr>
+							<td class="menu"><p></p>
+								<a href="attractions/saundersfoot/saundersfoot.htm">Saundersfoot</a>
+							</td>
+						</tr>
+						<tr>
+							<td class="menu"><p></p>
+								<a href="attractions/tenby/tenby.htm">Tenby</a>
+							</td>
+						</tr>
+						<tr>
+							<td class="menu"><p></p>
+								<a href="attractions/coastal_park/coastal_park.htm">Coastal park &amp path</a>
+							</td>
+						</tr>
+					</table>
+				</td>
+				<td onmouseover="showmenu('#booking')" onmouseout="hidemenu('#booking')">
+					<a href="booking/booking.htm">Availability &amp; prices</a>
+				</td>
+				<td onmouseover="showmenu('#contact')" onmouseout="hidemenu('#contact')">
+					<a href="contact/contact.htm">Find Us</a>
+				</td>
+				
+			</tr>
+		</table>

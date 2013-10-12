@@ -1,0 +1,118 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="../scripts/jQuery_uncompressed.js"></script>
+
+<title>images.htm</title>
+<style type="text/css">
+.menu {
+	width: 100%;
+}
+.menuTop {
+	width: 14%;
+	float: left;
+}
+li {
+	list-style-type: none;
+}
+.newStyle1 {
+	border-left-style: solid;
+}
+.menuUl {
+	border-right-style: solid;
+	border-right-width: thin;
+}
+</style>
+</head>
+
+<body>
+	<script type="text/javascript">
+		// initialise the image slider
+		$(function() {
+		
+			$('#sheep').animate({
+			    marginLeft: '+=1000px'
+			}, 2000);
+		
+			$('#sheep').fadeOut('slow');
+	
+			// hide all the Sub menu on DOM load
+			$('[id$="SubMenu"]').css('visibility','hidden');
+		});
+		
+		function showmenu(elmnt)
+		{
+		$(elmnt).css('visibility','visible');
+		}
+		function hidemenu(elmnt)
+		{
+		$(elmnt).css('visibility','hidden');
+		}
+
+	</script>
+<div class="menu">
+	<div id="menuHome" class="menuTop" >
+		<ul id="menuHomeUl" class="menuUl">
+			<li><a href="../default - Copy.htm">Home</a></li>
+		</ul>
+	</div>
+	<div id="menuCottages" class="menuTop" 
+		onmouseover="showmenu('#menuCottagesSubMenu')" 
+		onmouseout="hidemenu('#menuCottagesSubMenu')">
+		
+		<ul id="menuCottagesUl" class="menuUl" >
+			<li><a href="../cottages/cottages.htm">Cottages</a></li>		
+		</ul>
+		<div id="menuCottagesSubMenu">
+			<ul>
+				<li><a href="../cottages/Meadowsweet/Meadowsweet.htm">Meadowsweet</a></li>
+				<li><a href="../cottages/Cowslip/Cowslip.htm">Cowslip</a></li>
+				<li><a href="../cottages/Cornflower/Cornflower.htm">Cornflower</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="menuCooking" class="menuTop"
+		onmouseover="showmenu('#menuCookingSubMenu')" 
+		onmouseout="hidemenu('#menuCookingSubMenu')">
+
+		<ul id="menuCookingUl" class="menuUl" >
+			<li><a href="../menu/menu.htm">Menu</a></li>		
+		</ul>
+		<div id="menuCookingSubMenu">
+			<ul>
+				<li><a href="../menu/ordering.htm">Ordering</a></li>
+				<li><a href="../menu/ForwebMenu2012-08-12.pdf">The menu</a></li>
+			</ul>
+		</div>
+	</div>
+
+</div>
+
+
+<div id="sheep">
+<img alt="" src="../facilities/animals/images/sheep_clipart07_111x114.jpg" width="111" height="114" />
+</div>
+
+&nbsp;<img alt="" src="../images/CF_outsideV2.jpg" width="150" height="115" />
+<img alt="" src="../images/AmenitiesV1.jpg" width="160" height="132" />
+<img alt="" src="../facilities/images/emptybeach.jpg" width="160" height="106" /></p>
+<p>
+<img alt="" src="../cottages/images/Cowslip.jpg" width="190" height="133" /></p>
+<p>
+<img alt="" src="../cottages/images/Cornflower.jpg" width="190" height="133" /></p>
+<p>
+<img alt="" src="../cottages/images/Meadowsweet.jpg" width="133" height="190" /></p>
+
+<p>
+<img alt="" src="../cottages/Meadowsweet/images/MSsingleBedroom1.JPG" width="448" height="336" /><img alt="" src="../facilities/images/Lakes1.JPG" width="3264" height="2448" /></p>
+
+<p>
+<img alt="" src="../facilities/images/PlayArea1.JPG" width="3264" height="2448" /></p>
+<p>
+<img alt="" src="../facilities/images/Seating1.JPG" width="3264" height="2448" /></p>
+
+</body>
+
+</html>
