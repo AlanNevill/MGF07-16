@@ -213,3 +213,14 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+##############
+## My settings
+##############
+
+# image files
+*.jpg
+
+# _vti_* folders
+_vti_*/
+
