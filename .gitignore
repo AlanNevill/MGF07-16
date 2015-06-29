@@ -220,7 +220,14 @@ pip-log.txt
 
 # image files
 *.jpg
+*.png
+
+temp\*
 
 # _vti_* folders
-_vti_*/
+**/_vti_cnf/*
+**/_vti_pvt/*
+
+# ZIP files
+*.ZIP
 
